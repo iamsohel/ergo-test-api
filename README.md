@@ -1,11 +1,11 @@
 
 ## Setup
 
-Make sure to follow all these steps exactly as explained below. Do not miss any steps or you won't be able to run this application.
+Make sure to follow all these steps exactly as explained below.
 
 ### Install MongoDB
 
-Once you install MongoDB, make sure it's running.
+Once you install MongoDB, make sure it's running. You will find database file in database_file folder
 
 ### Install the Dependencies
 
