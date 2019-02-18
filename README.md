@@ -19,7 +19,7 @@ Next, from the project folder, install the dependencies:
 
 This will launch the Node server on port 3000.
 
-Open up your browser and head over to:
+Open up your postman and head over to:
 
 http://localhost:3000/api/users -->POST, parameters(name, latitude, longitude)
 
