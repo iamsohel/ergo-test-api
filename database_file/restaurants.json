@@ -1,0 +1,75 @@
+{
+    "_id": {
+        "$oid": "5c6a85fe866e5d186ce09e0d"
+    },
+    "location": {
+        "coordinates": [
+            90.365417,
+            23.822350
+        ],
+        "type": "Point"
+    },
+    "name": "Vooter Bari",
+    "address": "Mirpur-12",
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "5c6a869b866e5d186ce09e0f"
+    },
+    "location": {
+        "coordinates": [
+            90.405449,
+            23.777628
+        ],
+        "type": "Point"
+    },
+    "name": "KFC",
+    "address": "Mohakhali",
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "5c6a87d1866e5d186ce09e11"
+    },
+    "location": {
+        "coordinates": [
+            90.376015,
+            23.746466
+        ],
+        "type": "Point"
+    },
+    "name": "Best Food Corner",
+    "address": "Dhanmondi",
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "5c6a882f866e5d186ce09e12"
+    },
+    "location": {
+        "coordinates": [
+            90.414391,
+            23.797911
+        ],
+        "type": "Point"
+    },
+    "name": "Kafe Gulsan",
+    "address": "Gulsan",
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "5c6a886f866e5d186ce09e13"
+    },
+    "location": {
+        "coordinates": [
+            90.404272,
+            23.793993
+        ],
+        "type": "Point"
+    },
+    "name": "Rose Garden",
+    "address": "Banani",
+    "__v": 0
+}

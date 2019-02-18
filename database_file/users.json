@@ -1,0 +1,42 @@
+{
+    "_id": {
+        "$oid": "5c6a844e8a997521fc972f68"
+    },
+    "location": {
+        "coordinates": [
+            90.414391,
+            23.797911
+        ],
+        "type": "Point"
+    },
+    "name": "Ali Kahn",
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "5c6a8653866e5d186ce09e0e"
+    },
+    "location": {
+        "coordinates": [
+            90.376015,
+            23.746466
+        ],
+        "type": "Point"
+    },
+    "name": "Sohel Rana",
+    "__v": 0
+}
+{
+    "_id": {
+        "$oid": "5c6a8793866e5d186ce09e10"
+    },
+    "location": {
+        "coordinates": [
+            90.405449,
+            23.777628
+        ],
+        "type": "Point"
+    },
+    "name": "Md. Alamin",
+    "__v": 0
+}
